@@ -121,7 +121,7 @@ nav.navbar.bootsnav {
 .navbar-header a.navbar-brand,.navbar-header a.navbar-brand:hover,.navbar-header a.navbar-brand:focus {
     display: inline-block;
     color: #616060;
-    font-size: 24px;
+    font-size: 80px;
     font-weight: 500;
     padding: 45px 0px;
     text-transform:capitalize;
